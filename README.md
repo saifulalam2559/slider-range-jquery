@@ -111,7 +111,7 @@
 <h2 id="acknowledgements">Acknowledgements</h2>
 <ul>
     <li><a href="https://jqueryui.com/" target="_blank">jQuery UI</a> for providing the slider widget.</li>
-    <li><a href="https://github.com/yourusername" target="_blank">Md Saiful Alam</a> for developing this project.</li>
+    <li><a href="https://github.com/saifulalam2559" target="_blank">Md Saiful Alam</a> for developing this project.</li>
 </ul>
 
 <p>Feel free to reach out if you have any questions or suggestions!</p>
