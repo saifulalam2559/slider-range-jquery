@@ -103,7 +103,7 @@
 });</code></pre>
 
 <h2 id="contributing">Contributing</h2>
-<p>I welcome contributions! Please read my <a href="CONTRIBUTING.md">Contributing Guidelines</a> before submitting a pull request.</p>
+<p>I welcome contributions! Please read my <a href="https://github.com/saifulalam2559/slider-range-jquery/blob/main/CONTRIBUTING.md">Contributing Guidelines</a> before submitting a pull request.</p>
 
 <h2 id="license">License</h2>
 <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for more details.</p>
