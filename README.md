@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Slider Range using jQuery</title>
+
 </head>
 <body>
 
@@ -103,7 +103,7 @@
 });</code></pre>
 
 <h2 id="contributing">Contributing</h2>
-<p>We welcome contributions! Please read our <a href="CONTRIBUTING.md">Contributing Guidelines</a> before submitting a pull request.</p>
+<p>I welcome contributions! Please read my <a href="CONTRIBUTING.md">Contributing Guidelines</a> before submitting a pull request.</p>
 
 <h2 id="license">License</h2>
 <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for more details.</p>
@@ -111,7 +111,7 @@
 <h2 id="acknowledgements">Acknowledgements</h2>
 <ul>
     <li><a href="https://jqueryui.com/" target="_blank">jQuery UI</a> for providing the slider widget.</li>
-    <li><a href="https://github.com/yourusername" target="_blank">Your Name</a> for developing this project.</li>
+    <li><a href="https://github.com/yourusername" target="_blank">Md Saiful Alam</a> for developing this project.</li>
 </ul>
 
 <p>Feel free to reach out if you have any questions or suggestions!</p>
