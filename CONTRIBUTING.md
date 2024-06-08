@@ -15,7 +15,6 @@
 <h2>Table of Contents</h2>
 <ul>
     <li><a href="#how-to-contribute">How to Contribute</a></li>
-
     <li><a href="#issues">Issues</a></li>
     <li><a href="#pull-requests">Pull Requests</a></li>
     <li><a href="#coding-standards">Coding Standards</a></li>
