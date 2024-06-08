@@ -106,7 +106,7 @@
 <p>I welcome contributions! Please read my <a href="https://github.com/saifulalam2559/slider-range-jquery/blob/main/CONTRIBUTING.md">Contributing Guidelines</a> before submitting a pull request.</p>
 
 <h2 id="license">License</h2>
-<p>This project is licensed under the MIT License. See the <a href="https://github.com/saifulalam2559/slider-range-jquery/blob/main/LICENSE">LICENSE</a> file for more details.</p>
+<p>This project is licensed under the MIT License. See the <a href="https://github.com/saifulalam2559/slider-range-jquery/blob/main/LICENSE.md">LICENSE</a> file for more details.</p>
 
 <h2 id="acknowledgements">Acknowledgements</h2>
 <ul>
