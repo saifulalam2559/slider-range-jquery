@@ -38,7 +38,7 @@
 </ul>
 
 <h2 id="demo">Demo</h2>
-<p>You can see a live demo of the slider in action <a href="https://your-demo-link.com" target="_blank">here</a>.</p>
+<p>You can see a live demo of the slider in action <a href="https://slider-range.saiful.eu/" target="_blank">here</a>.</p>
 
 <h2 id="installation">Installation</h2>
 
