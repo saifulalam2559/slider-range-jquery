@@ -1,6 +1,4 @@
-Sure! Below is the HTML version of the README for your GitHub repository:
 
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -120,6 +118,3 @@ Sure! Below is the HTML version of the README for your GitHub repository:
 
 </body>
 </html>
-```
-
-This HTML file can be used to display your README content with proper formatting and hyperlinks. You can add additional styling if needed by including a CSS file or inline styles.
