@@ -15,7 +15,7 @@
 <h2>Table of Contents</h2>
 <ul>
     <li><a href="#how-to-contribute">How to Contribute</a></li>
-    <li><a href="#code-of-conduct">Code of Conduct</a></li>
+
     <li><a href="#issues">Issues</a></li>
     <li><a href="#pull-requests">Pull Requests</a></li>
     <li><a href="#coding-standards">Coding Standards</a></li>
@@ -34,11 +34,9 @@
     <li>Reviewing and commenting on pull requests</li>
 </ul>
 
-<h2 id="code-of-conduct">Code of Conduct</h2>
-<p>This project adheres to the Contributor Covenant <a href="CODE_OF_CONDUCT.md">Code of Conduct</a>. By participating, you are expected to uphold this code. Please report unacceptable behavior to <a href="mailto:email@example.com">email@example.com</a>.</p>
 
 <h2 id="issues">Issues</h2>
-<p>If you encounter any issues or have suggestions, please check the <a href="https://github.com/yourusername/slider-range-jquery/issues">issue tracker</a> first to see if someone else has already reported the same thing. If not, feel free to open a new issue.</p>
+<p>If you encounter any issues, please  feel free to open a new issue.</p>
 
 <p>When reporting an issue, please provide as much detail as possible:</p>
 <ul>
@@ -83,11 +81,11 @@
 <p>Documentation is crucial for the usability and maintainability of this project. If you add or modify functionality, please update the documentation accordingly.</p>
 
 <h2 id="getting-help">Getting Help</h2>
-<p>If you need help with the project, feel free to reach out by opening an issue or contacting <a href="mailto:email@example.com">email@example.com</a>.</p>
+<p>If you need help with the project, feel free to reach out by opening an issue or contacting <a href="mailto:saifulalam2559@gmail.com">saifulalam2559@gmail.com</a>.</p>
 
 <hr>
 
-<p>Thank you for your contributions! Together, we can make this project even better.</p>
+<p>Thank you for your contributions! Together, we can make this slider range even better.</p>
 
 </body>
 </html>
