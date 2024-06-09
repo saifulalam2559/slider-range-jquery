@@ -48,7 +48,7 @@
 <h3>Steps</h3>
 <ol>
     <li>Clone the repository:
-        <pre><code>git clone https://github.com/yourusername/slider-range-jquery.git</code></pre>
+        <pre><code>git clone https://github.com/saifulalam2559/slider-range-jquery.git</code></pre>
     </li>
     <li>Include jQuery in your project. You can use a CDN:
         <pre><code>&lt;script src="https://code.jquery.com/jquery-3.6.0.min.js"&gt;&lt;/script&gt;</code></pre>
@@ -114,7 +114,7 @@
     <li><a href="https://github.com/saifulalam2559" target="_blank">Md Saiful Alam</a> for developing this project.</li>
 </ul>
 
-<p>Feel free to reach out if you have any questions or suggestions!</p>
+<p>Feel free to contact to <a href="mailto:saifulalam2559@gmail.com">saifulalam2559@gmail.com</a>.</p>, if you have any questions or suggestions. Thank you. </p>
 
 </body>
 </html>
