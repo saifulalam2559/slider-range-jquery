@@ -80,7 +80,7 @@
 <p>Documentation is crucial for the usability and maintainability of this project. If you add or modify functionality, please update the documentation accordingly.</p>
 
 <h2 id="getting-help">Getting Help</h2>
-<p>If you need help with the project, feel free to reach out by opening an issue or contacting <a href="mailto:saifulalam2559@gmail.com">saifulalam2559@gmail.com</a>.</p>
+<p>If you need help with the project, feel free to reach out by opening an issue or contacting <a href="mailto:me@saiful.eu">me@saiful.eu</a>.</p>
 
 <hr>
 
