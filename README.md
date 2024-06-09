@@ -114,7 +114,7 @@
     <li><a href="https://github.com/saifulalam2559" target="_blank">Md Saiful Alam</a> for developing this project.</li>
 </ul>
 
-<p>Feel free to contact to <a href="mailto:saifulalam2559@gmail.com">saifulalam2559@gmail.com</a>.</p>, if you have any questions or suggestions. Thank you. </p>
+<p>Feel free to contact to <a href="mailto:saifulalam2559@gmail.com">saifulalam2559@gmail.com</a>, if you have any questions or suggestions. Thank you. </p>
 
 </body>
 </html>
