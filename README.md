@@ -39,7 +39,7 @@
 
 <h2 id="demo">Demo</h2>
 <p>You can see a live demo of the slider in action <a href="https://slider-range.saiful.eu/" target="_blank">here</a>.</p>
-
+<img src="https://slider-range.saiful.eu/slider.png" alt="Example Image" width="400" height="300">
 <h2 id="installation">Installation</h2>
 
 <h3>Prerequisites</h3>
